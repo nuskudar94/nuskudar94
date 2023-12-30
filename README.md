@@ -7,7 +7,7 @@ I'm a CS student at University of Oslo with a passion for Cloud Solutions, Cyber
 - 🌱 I’m currently learning Azure DevOps, Github Codespaces
 - 👯 I’m looking to collaborate on Cloud Projects, CTFs, open source.
 - 🤔 I’m looking for help with Certification Discounts :laughing::satisfied:
-- 💬 Ask me about Learning Resources on CyberSec, Cloud, CI/CD, Test Automation
+- 💬 Ask me about CyberSec, Cloud, CI/CD, Test Automation
 - 📫 How to reach me: nuskudar@outlook.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: The Office US lover :wink:, CTF Enthusiast
