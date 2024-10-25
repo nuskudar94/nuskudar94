@@ -37,8 +37,6 @@ Include badges for languages and tools you use, for example:
 
 ## 📫 How to Reach Me:
 - 💼 LinkedIn: [Numan Uskudar](https://www.linkedin.com/in/numan-uskudar/)
-- 🐦 Twitter: [@oricinal](https://twitter.com/numili_)
-- 📷 Instagram: [Numan](https://instagram.com/bergensfyr)
 
 ## 🌟 Highlighted Projects:
 - [Movie Rating Application](https://github.com/nuskudar94/MovieRating) - Application that deals with searching films and adding movie reviews using SpringBoot,Lombok,Java,REST API
